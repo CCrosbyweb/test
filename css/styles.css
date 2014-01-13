@@ -1,0 +1,13 @@
+@import url(http://fonts.googleapis.com/css?family=Hanalei);
+
+body{
+	background: url("../img/stardust.png");
+	color: white;
+}
+
+h1{
+	font-family: "Hanalei";
+	color: #50BFA0;
+	font-size: 50px;
+
+}
